@@ -41,7 +41,7 @@ const Index = () => {
           </a>
 
           <a
-            href="https://www.havan.com.br/lista-de-casamento"
+            href="https://lista.havan.com.br/Convidado/ItensListaPresente/906725"
             target="_blank"
             rel="noopener noreferrer"
             className="group flex items-center gap-3 px-8 py-4 rounded-full bg-primary-foreground/20 backdrop-blur-sm text-primary-foreground border border-primary-foreground/30 font-medium text-lg shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105 hover:bg-primary-foreground/30"
