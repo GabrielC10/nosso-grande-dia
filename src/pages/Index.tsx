@@ -19,7 +19,7 @@ const Index = () => {
             Estamos nos casando
           </p>
           <h1 className="text-5xl md:text-7xl font-bold text-primary-foreground drop-shadow-lg" style={{ fontFamily: 'var(--font-heading)' }}>
-            Gabriel & Ana
+            Gabriel & Ana Flávia
           </h1>
           <div className="flex items-center justify-center gap-3 text-primary-foreground/70">
             <span className="h-px w-12 bg-primary-foreground/40" />
