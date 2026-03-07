@@ -30,7 +30,7 @@ const Index = () => {
 
         <div className="flex flex-col sm:flex-row gap-4 mt-4">
           <a
-            href="https://chat.whatsapp.com/C8vAMujU2dnDekSpQXJkWV"
+            href="https://convide.online/pt/463b1ad8"
             target="_blank"
             rel="noopener noreferrer"
             className="group flex items-center gap-3 px-8 py-4 rounded-full bg-primary text-primary-foreground font-medium text-lg shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105"
